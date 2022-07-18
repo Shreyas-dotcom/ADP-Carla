@@ -1,0 +1,11 @@
+"Data_Collection.py" is for the first tests on Carla for data collections and creation of the Parking environment. It is a remake of Carla script "tutorial.py" with an adaptation to the KARlab UC3
+
+"parking.py" is the creation of the Parking environment class in Carla simulator to train it with tf-agents
+
+"utils_carla.py" are all the functions used in Carla simulator
+
+"test_py_env.py" is a tutorial/example of tf-agents for the first test and comprehension of the tf-agents library
+
+"train.py" is the RL loop and training of the agent with tf-agents
+
+"ppo.py" is use to compute the PPO RL algorithm
